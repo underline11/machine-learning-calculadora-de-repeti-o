@@ -1,0 +1,15 @@
+# Calculadora de Repetição
+
+Este projeto é uma calculadora simples em Python que permite ao usuário realizar operações matemáticas básicas (adição, subtração, multiplicação e divisão) repetidamente, até que escolha encerrar o programa. A calculadora continua executando operações com base nas entradas fornecidas pelo usuário e exibe os resultados imediatamente.
+
+## Funcionalidades
+
+- Permite realizar operações matemáticas básicas (adição, subtração, multiplicação e divisão).
+- Solicita ao usuário que continue realizando operações até decidir parar.
+- Verifica entradas inválidas e lida com divisões por zero.
+
+## Como usar
+
+1. Clone o repositório para sua máquina local:
+  
+   git clone https://github.com/seuusuario/calculadora-repeticao.git
