@@ -1,0 +1,7 @@
+Calculadora de Repetição
+Neste projeto, o objetivo é desenvolver uma calculadora que realiza operações matemáticas repetidamente, de acordo com a escolha do usuário. O programa oferecerá ao usuário a possibilidade de realizar operações básicas (adição, subtração, multiplicação, divisão) quantas vezes ele desejar, até que decida encerrar o programa. O foco do projeto é aplicar a estrutura de repetição while e trabalhar com funções para realizar as operações.
+
+Funcionalidades:
+Realizar operações de adição, subtração, multiplicação e divisão.
+Permitir que o usuário continue fazendo cálculos até optar por sair.
+Exibir mensagens de erro para divisões por zero ou entradas inválidas
